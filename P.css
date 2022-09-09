@@ -1,0 +1,103 @@
+.body{
+    background-color: #EFEFEF;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1562px;
+    margin-left: -50px;
+
+}
+
+/*menú*/
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+/*
+
+AQUÍ VA EL CONTENIDO
+
+*/
+
+
+/*FINAL*/
+.final{
+    margin-top: 100px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+
+}

@@ -1,0 +1,151 @@
+body{
+    background-color: #EFEFEF;
+    overflow-x: hidden;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.Barra{
+    margin-top: 10px;
+    width: 1562px;
+    margin-left: -50px;
+
+}
+
+.DIVTI{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    color: rgba(56, 35, 95, 0.68);
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: -65px;
+    margin-left: -8px;
+}
+
+
+.DIVTE{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    color: rgba(56, 35, 95, 0.68);
+    text-align: center;
+    margin-bottom: -65px;
+    margin-left: -8px;
+}
+
+.DIVP{
+    font-family: 'Pragati Narrow', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    text-align: center;
+    margin-top: 46px;
+
+}
+
+/*menú*/
+.niv{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.plat{
+    position: absolute;
+    top: 25%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.act{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ali{
+    position: absolute;
+    top: 25%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.alum{
+    position: absolute;
+    top: 25%;
+    left: 64%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.ins{
+    position: absolute;
+    top: 25%;
+    left: 76%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+.cont{
+    position: absolute;
+    top: 25%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Pragati Narrow', sans-serif;
+}
+
+button{
+    background-color: transparent;
+    margin:0px;
+    border: 0px;
+    padding: 0px;
+
+}
+
+.botones{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+
+
+.final{
+    margin-top: 100px;
+    margin-bottom: -100px;
+    margin-left: -8px;
+    width: 1520px;
+}
+
+.tt3{
+    position: relative;
+    display: inline-block;
+    text-align: right;
+
+}
+
